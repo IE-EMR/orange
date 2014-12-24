@@ -1,6 +1,6 @@
 {
   "name": "orange",
-  "family": "IE-EMR",
+  
   "description": "JavaScript plugin",
   "version": "1.0.0",
   "package": "https://github.com/IE-EMR/orange/blob/master/package.json",
